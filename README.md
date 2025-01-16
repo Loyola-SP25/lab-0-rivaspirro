@@ -2,3 +2,8 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+**Names:RivasPirro**
+1. Go to the gym 
+2. Get food 
+3. Walk the dogs 
+4. Go to mall 
