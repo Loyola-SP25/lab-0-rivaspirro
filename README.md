@@ -7,3 +7,12 @@ This lab will get us started with GitHub.
 2. Get food 
 3. Walk the dogs 
 4. Go to mall 
+
+
+## Courses 
+
+- IS358
+- CS151
+- OM260
+- PL210
+- AC202
